@@ -1,0 +1,13 @@
+Persional details
+
+
+Name:R.Swetha
+Date of birth:24/01/2006
+Gender:Female
+
+
+Education
+
+
+University:Bharathidasan University
+Department:BCA
